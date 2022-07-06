@@ -1,4 +1,4 @@
-Usage
+Low Pass Filter Calculator
 =====
 
 .. _Usage:
