@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'The Quantizer'
+copyright = '2022, The Quantizer'
+author = 'The Quantizer'
 
 release = '0.1'
 version = '0.1.0'
