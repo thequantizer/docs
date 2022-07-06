@@ -1,4 +1,4 @@
-Usage
+High Pass Filter Calculator
 =====
 
 .. _Usage:
