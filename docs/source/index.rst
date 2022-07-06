@@ -1,4 +1,4 @@
-Welcome to (TheQuantizer's)[https://www.thequantizer.com] documentation!
+Welcome to `TheQuantizer's<https://www.thequantizer.com>`_ documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
