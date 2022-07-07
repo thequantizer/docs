@@ -15,6 +15,6 @@ Resistance
 Capacitance
 
 Toggle X
-  Switches between log and linear scale
+  Switches between linear and log scale
 Toggle Y
-  Switches between log and linear scale
+  Switches between voltage (v) and decibels (db)
